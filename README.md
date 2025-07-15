@@ -9,8 +9,8 @@ Simulates IT operations incident resolution using SimPy, modeling outage handlin
 Shows automation and problem-solving for incident management and risk mitigation.
 
 ## Output Example
-Incident 1 resolved in 6.0 min 
-Incident 2 resolved in 14.0 min 
-Incident 3 resolved in 14.0 min 
-Incident 5 resolved in 6.0 min 
+Incident 1 resolved in 6.0 min  
+Incident 2 resolved in 14.0 min  
+Incident 3 resolved in 14.0 min  
+Incident 5 resolved in 6.0 min  
 Avg outage resolution: 10.0 min
