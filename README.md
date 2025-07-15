@@ -14,3 +14,6 @@ Incident 2 resolved in 14.0 min
 Incident 3 resolved in 14.0 min  
 Incident 5 resolved in 6.0 min  
 Avg outage resolution: 10.0 min
+
+## Job Relevance
+Aligns with IT operations needs for incident process improvement and automation.
